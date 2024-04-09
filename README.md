@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, World! 👋 👋
 
-<!--
-**itharanie/itharanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Tharani, a CS student and a budding developer.
 
-Here are some ideas to get you started:
+About Me
+- 🌱 I'm currently learning Software and Mobile App Developement.
+- 🎓 Student @ Monash University, class of 2025
+- 👩‍💻 I love competitive programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in Touch
+- 📫 Reach me at @itharanie@gmail.com
+- 💼 Connect with me on https://www.linkedin.com/in/tharaniprathaban/
+
